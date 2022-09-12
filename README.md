@@ -1,1 +1,1 @@
-# kurssi2208-php
+# kurssi2208-php, kehitys
